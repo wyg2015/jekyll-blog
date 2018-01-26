@@ -1,6 +1,6 @@
 # Site settings
 title: WYG-BLOG
-SEOTitle: wangyongguan | WYG-BLOG
+SEOTitle: 王永冠的博客 | WYG-BLOG
 header-img: img/home-bg.jpg
 email: yongguan1992@163.com
 description: "王永冠的博客"
@@ -13,7 +13,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 # SNS settings
 RSS: false
 #weibo_username:     huxpro
-zhihu_username:     王永冠
+zhihu_username:     wangyongguan
 github_username:    wyg2015
 #twitter_username:   huxpro
 #facebook_username:  huxpro
