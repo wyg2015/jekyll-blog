@@ -1,19 +1,17 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
+title:      "开学前任务计划"
+subtitle:   "学习及任务计划"
+date:       2018-01-26
+author:     "王永冠"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 生活
+    - 任务计划
 ---
 
-> “Yeah It's on. ”
 
-
-## 前言
+## 2018-01-31至2018-03-01期间任务及计划
 
 Hux 的 Blog 就这么开通了。
 
